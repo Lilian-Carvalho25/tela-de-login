@@ -4,6 +4,7 @@ Tela de login linda e intuitiva. <br>
 ## ⚙ Funcionalidades 
 - Tela de login linda, responsiva, intuitiva e bem construída. <br><br>
 
+<img src="https://i.imgur.com/cF4umKS.png" width="600px" />
 
 ## 🖥️ Tecnologias utilizadas:<br>
 ###
@@ -20,5 +21,5 @@ Tela de login linda e intuitiva. <br>
 
 ###
 
-**Link do site:** <i>[clique aqui]() 
+**Link do site:** <i>[clique aqui](https://lilian-carvalho25.github.io/tela-de-login/) 
 
